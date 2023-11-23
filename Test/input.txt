@@ -1,0 +1,2 @@
+{"meta": {"colors": {"primary": "#fff","secondary": "#000"},"description": "obj1"}}
+{"meta": {"colors": {"secondary": {"red": 255,"green": 123,"blue": 11}},"description": "empty"},"id": 10}
